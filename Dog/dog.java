@@ -1,3 +1,4 @@
+package Dog;
 import java.util.Scanner;
 public class dog {
     Scanner scan = new Scanner(System.in);
